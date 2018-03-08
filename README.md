@@ -36,7 +36,7 @@ _Currently, UFW provides only a command-line interface (CLI) for user interactio
 **Fixed bugs:**
   * Issue 15 (on Google Code)
 
-# [Features](Screenshots.md)
+# Features
   * Feature parity with the CLI frontend (add/delete rules, enable/disable firewall, show reports, etc.)
   * Supports editing and reordering of existing rules
   * Ability to enable/disable IPv6 support
